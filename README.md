@@ -30,7 +30,8 @@ Este es una aplicación de línea de comandos desarrollada en Java que permite a
 
 * **Java Development Kit (JDK):** Asegúrate de tener Java instalado. Descarga desde [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) o tu gestor de paquetes.
 * **Conexión a Internet:** Necesaria para obtener las tasas de cambio de la API.
-* **Cuenta en ExchangeRate-API (Opcional):** Puede ser requerida para un uso más extenso de la API. Reemplaza `"TU_API_KEY"` en `ConsumirAPI.java` si es necesario.
+* **Cuenta en ExchangeRate-API (Obligatorio):** Puede ser requerida para un uso más extenso de la API. Reemplaza `"TU_API_KEY"` en `ConsumirAPI.java` si es necesario.
+![Menu](https://github.com/kazike19/ConversorMoneda/blob/master/imagenes/APIKEY.png)
 * **Terminal con soporte para códigos de escape ANSI:** La mayoría de las terminales lo soportan para la visualización de colores.
 
 ## Instalación y Ejecución
