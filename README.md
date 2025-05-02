@@ -86,4 +86,5 @@ Puedes ver una captura de pantalla del menú en el archivo `Menu.png` que se enc
 
 Puedes ver una breve demostración del funcionamiento de la aplicación en el siguiente enlace:
 
-[Demostración del Conversor de Monedas](https://youtu.be/H5DS2HfJHsg)
+[Demostración del Conversor de Monedas](https://drive.google.com/file/d/13yuFlC0AxKeZbjQdVlHX4gdlB2oQu4yB/view?usp=drive_link)
+[Demostración del Conversor de Monedas alternativo](https://youtu.be/H5DS2HfJHsg)
