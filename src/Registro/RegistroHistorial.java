@@ -1,4 +1,4 @@
-package Utils;
+package Registro;
 
 import Models.Historial;
 import java.util.ArrayList;
@@ -13,10 +13,6 @@ public class RegistroHistorial {
 
     public void agregarRegistro(Historial registro) {
         this.registro.add(registro);
-    }
-
-    public List<Historial> obtenerHistorial() {
-        return registro;
     }
 
     public void mostrarHistorial() {

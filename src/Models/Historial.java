@@ -1,4 +1,4 @@
-package Utils;
+package Models;
 
 import java.time.LocalDateTime;
 
