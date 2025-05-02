@@ -88,5 +88,3 @@ Puedes ver una breve demostración del funcionamiento de la aplicación en el si
 
 [Demostración del Conversor de Monedas](https://drive.google.com/file/d/13yuFlC0AxKeZbjQdVlHX4gdlB2oQu4yB/view?usp=drive_link)
 
-
-[Demostración del Conversor de Monedas alternativo](https://youtu.be/H5DS2HfJHsg)
