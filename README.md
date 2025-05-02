@@ -55,6 +55,7 @@ Este es una aplicación de línea de comandos desarrollada en Java que permite a
 ## Uso
 
 Puedes ver una captura de pantalla del menú en el archivo `Menu.png` que se encuentra en la raíz del repositorio.
+![Menu](https://github.com/kazike19/ConversorMoneda/blob/master/imagenes/Menu.png)
 
 **Elige una opción:**
 
